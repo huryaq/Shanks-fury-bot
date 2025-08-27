@@ -1,4 +1,4 @@
-https://graph.org/file/a2c8532485d17f7514202-d9d7bd918c1d059ff4.jpgasyncio
+
 import os
 import logging
 from logging.handlers import RotatingFileHandler
