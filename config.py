@@ -32,7 +32,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "Shanks_Fury_Bot")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #Collection of pics for Bot // #Optional but atleast one pic link should be replaced if you don't want predefined links
-PICS = (os.environ.get("PICS", "https://graph.org/file/dc7d498914ba46d87f66e-b2a478967b6300cf2c.jpg")).split() #Required
+PICS = (os.environ.get("PICS", "https://graph.org/file/a2c8532485d17f7514202-d9d7bd918c1d059ff4.jpg")).split() #Required
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
